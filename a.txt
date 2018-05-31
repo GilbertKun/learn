@@ -1,1 +1,2 @@
 hello java
+git is easy to use
